@@ -1,0 +1,8 @@
+name = input("Enter your name: ")
+print("Hello", name)
+first = int(input("Enter first number"))
+second = int(input("Enter second number"))
+print("sum of first and second number is:", first+second)
+side = int (input("Enter side of square"))
+print("Area of square is:", side*side)
+print("avg=", (first+second)/2)

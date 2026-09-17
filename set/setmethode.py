@@ -1,0 +1,10 @@
+collection = set()
+collection.add(1)
+collection.add(2)
+collection.add(1)
+
+print(collection)
+collection.remove(2)
+print(collection)
+collection.clear()
+print(len(collection))
